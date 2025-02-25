@@ -50,7 +50,7 @@ pip install pandas numpy matplotlib scipy
 ```
 ---
 
-### 📄 Read the full research -> here
+### 📄 Read the full research -> [here](https://petrovxyz.notion.site/Back-to-the-Past-Notcoin-s-Turbo-Booster-A-Data-Driven-Analysis-198697ae15e98074b258d0d26e26a343)
 
 ---
 
